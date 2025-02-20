@@ -1,0 +1,3 @@
+# Natalie's Criminology Gihub Repo
+
+This is where I'll stash some of my coding files and datasets. More to come as I progress in my research...
